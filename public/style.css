@@ -1,0 +1,10 @@
+.chat{
+    background-color: aqua;
+    padding: 20px;
+    border-radius: 10px;
+}
+.message{
+    background-color: pink;
+    padding: 5px 15px;
+    border-radius: 16px;
+}
